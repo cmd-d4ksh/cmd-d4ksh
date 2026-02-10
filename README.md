@@ -48,24 +48,24 @@ My work spans across:
 **Tech:** Python, Jupyter Notebook, Machine Learning
 
 ---
+### 🎸Tunr
+- Made a guitar tuning app for ios
+- Compatible with apple watch as well
+- Real-world use case made easier for the guitarists who own an apple watch and no ads for phone.
+
+**Tech:** Xcode, Swift
+
+---
 
 ## 🛠️ Skills
 
 - **Languages:** Python, JavaScript, HTML, CSS  
 - **Frameworks & Tools:** Django, Jupyter Notebook  
 - **Machine Learning:** Regression models, feature engineering  
-- **Other:** Git, GitHub, REST APIs, Data Visualization  
+- **Other:** Git, GitHub, REST APIs, Data Visualization, XCODE, SWIFT
 
 ---
 
-## 📦 Tech Stack Used for This Website
-
-- HTML5
-- CSS3
-- JavaScript
-- GitHub Pages
-
----
 
 ## 📫 Contact
 
