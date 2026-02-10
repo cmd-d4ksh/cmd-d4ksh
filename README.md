@@ -6,6 +6,13 @@
 # Daksh Shah  
 ### Software Developer · Backend · Machine Learning
 
+![Profile Views](https://komarev.com/ghpvc/?username=cmd-d4ksh&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/cmd-d4ksh?style=flat-square)
+![Python](https://img.shields.io/badge/Python-Backend-blue?style=flat-square&logo=python)
+![Django](https://img.shields.io/badge/Django-Production-success?style=flat-square&logo=django)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Applied-orange?style=flat-square)
+![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub%20Pages-black?style=flat-square&logo=github)
+
 > Building production-oriented systems with a focus on reliability, clarity, and real-world impact.
 
 <p align="left">
