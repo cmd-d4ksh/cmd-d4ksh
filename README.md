@@ -1,77 +1,111 @@
-# Daksh Shah — Portfolio Website
+<!--
+  Daksh Shah — Portfolio Repository
+  Clean. Intentional. Recruiter-facing.
+-->
 
-This repository hosts my personal portfolio website, built using **HTML, CSS, and JavaScript** and deployed with **GitHub Pages**.
+# Daksh Shah  
+### Software Developer · Backend · Machine Learning
 
-🌐 **Live Website:**  
-https://cmd-d4ksh.github.io/
+> Building production-oriented systems with a focus on reliability, clarity, and real-world impact.
 
----
-
-## 👋 About Me
-
-I’m a developer focused on building **real-world, data-driven applications** with a strong emphasis on backend logic, clean UI, and practical machine learning use cases.
-
-My work spans across:
-- Full-stack web development
-- Backend systems using Django
-- Data analysis and visualization
-- Machine learning models applied to real problems
+<p align="left">
+  <a href="https://cmd-d4ksh.github.io/"><strong>Live Portfolio</strong></a> ·
+  <a href="https://github.com/cmd-d4ksh"><strong>GitHub</strong></a> ·
+  <a href="https://www.linkedin.com/in/daksh-sh4h/"><strong>LinkedIn</strong></a>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## Overview
 
-### 📈 Stock Market Analysis Tool
-- Django-based stock analysis platform
-- Live stock price search
-- Backend API integration
-- Visualized market trends
+This repository hosts my personal portfolio website, built using **HTML, CSS, and JavaScript** and deployed via **GitHub Pages**.
 
-**Tech:** Django, Python, APIs, Matplotlib
+It also serves as a central index for my work across backend systems, data analysis, and applied machine learning projects.
 
 ---
 
-### 🥗 Calorie Calculator Website
-- Clean and minimal calorie calculator
-- User-friendly and responsive UI
-- Focus on simplicity and usability
+## About Me
 
-**Tech:** HTML, CSS, JavaScript
+I am a developer focused on building **real-world, data-driven applications** with an emphasis on:
 
----
+- Backend architecture and API design  
+- Clean, maintainable user interfaces  
+- Machine learning applied to practical problems  
 
-### 🚕 Dynamic Cab Fare Pricing (Machine Learning)
-- Machine learning model for dynamic fare calculation
-- Pricing based on distance and data-driven patterns
-- Real-world ML use case implementation
-
-**Tech:** Python, Jupyter Notebook, Machine Learning
-
----
-### 🎸Tunr
-- Made a guitar tuning app for ios
-- Compatible with apple watch as well
-- Real-world use case made easier for the guitarists who own an apple watch and no ads for phone.
-
-**Tech:** Xcode, Swift
+My work prioritizes production readiness over demos and clear system design over shortcuts.
 
 ---
 
-## 🛠️ Skills
+## Featured Projects
 
-- **Languages:** Python, JavaScript, HTML, CSS  
-- **Frameworks & Tools:** Django, Jupyter Notebook  
-- **Machine Learning:** Regression models, feature engineering  
-- **Other:** Git, GitHub, REST APIs, Data Visualization, XCODE, SWIFT
+<details>
+<summary><strong>📈 Stock Market Analysis Platform</strong></summary>
+
+- Django-based stock analysis system  
+- Live stock price search with backend API integration  
+- Data visualization for market trends  
+
+**Tech Stack:** Django, Python, REST APIs, Matplotlib
+</details>
+
+<details>
+<summary><strong>🥗 Calorie Calculator Website</strong></summary>
+
+- Minimal and responsive calorie calculator  
+- Clean UI with usability-first design  
+
+**Tech Stack:** HTML, CSS, JavaScript
+</details>
+
+<details>
+<summary><strong>🚕 Dynamic Cab Fare Pricing (Machine Learning)</strong></summary>
+
+- Machine learning model for dynamic fare calculation  
+- Pricing based on distance and data-driven patterns  
+- Real-world ML implementation  
+
+**Tech Stack:** Python, Jupyter Notebook, Machine Learning
+</details>
+
+<details>
+<summary><strong>🎸 Tunr — Guitar Tuning App</strong></summary>
+
+- iOS guitar tuning application  
+- Apple Watch compatible  
+- Ad-free utility designed for real guitarist workflows  
+
+**Tech Stack:** Swift, Xcode, iOS, watchOS
+</details>
 
 ---
 
+## Technical Skills
 
-## 📫 Contact
-
-- GitHub: https://github.com/dakshshah
-- https://www.linkedin.com/in/daksh-sh4h/
+| Category | Skills |
+|--------|-------|
+| Languages | Python, JavaScript, HTML, CSS |
+| Frameworks & Tools | Django, Jupyter Notebook |
+| Machine Learning | Regression models, feature engineering |
+| Other | Git, GitHub, REST APIs, Data Visualization, Xcode, Swift |
 
 ---
 
+## GitHub Highlights
 
+- Structured repositories with production-oriented layouts  
+- Clean commit history and documentation-first approach  
+- Use of issue templates, contribution guidelines, and repo hygiene  
+- Familiarity with GitHub Pages, workflows, and project organization  
+
+---
+
+## Contact
+
+- GitHub: https://github.com/cmd-d4ksh  
+- LinkedIn: https://www.linkedin.com/in/daksh-sh4h/
+
+---
+
+<sub>
+This portfolio is actively maintained and reflects ongoing work in backend engineering and applied machine learning.
+</sub>
