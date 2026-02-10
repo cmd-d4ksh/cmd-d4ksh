@@ -1,118 +1,114 @@
 <!--
-  Daksh Shah — Portfolio Repository
-  Clean. Intentional. Recruiter-facing.
+  README.md
+  Daksh Shah — portfolio
+  Built to stand out.
 -->
 
-# Daksh Shah  
-### Software Developer · Backend · Machine Learning
+<h1 align="center">Daksh Shah</h1>
+<h3 align="center">Backend · Machine Learning · Builder</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=cmd-d4ksh&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/cmd-d4ksh?style=flat-square)
-![Python](https://img.shields.io/badge/Python-Backend-blue?style=flat-square&logo=python)
-![Django](https://img.shields.io/badge/Django-Production-success?style=flat-square&logo=django)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Applied-orange?style=flat-square)
-![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub%20Pages-black?style=flat-square&logo=github)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cmd-d4ksh&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/cmd-d4ksh?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-Backend-blue?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/Django-Production-success?style=flat-square&logo=django" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Applied-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Deployed-GitHub%20Pages-black?style=flat-square&logo=github" />
+</p>
 
-> Building production-oriented systems with a focus on reliability, clarity, and real-world impact.
-
-<p align="left">
-  <a href="https://cmd-d4ksh.github.io/"><strong>Live Portfolio</strong></a> ·
-  <a href="https://github.com/cmd-d4ksh"><strong>GitHub</strong></a> ·
-  <a href="https://www.linkedin.com/in/daksh-sh4h/"><strong>LinkedIn</strong></a>
+<p align="center">
+  <a href="https://cmd-d4ksh.github.io/">🌐 Portfolio</a> ·
+  <a href="https://github.com/cmd-d4ksh">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/daksh-sh4h/">LinkedIn</a>
 </p>
 
 ---
 
-## Overview
+## ⚡ TL;DR
 
-This repository hosts my personal portfolio website, built using **HTML, CSS, and JavaScript** and deployed via **GitHub Pages**.
+I build **real systems**, not toy projects.
 
-It also serves as a central index for my work across backend systems, data analysis, and applied machine learning projects.
+If it has:
+- data → I analyze it  
+- logic → I optimize it  
+- users → I think about them  
+- ML → I make it practical  
 
----
-
-## About Me
-
-I am a developer focused on building **real-world, data-driven applications** with an emphasis on:
-
-- Backend architecture and API design  
-- Clean, maintainable user interfaces  
-- Machine learning applied to practical problems  
-
-My work prioritizes production readiness over demos and clear system design over shortcuts.
+This repo is my **digital control panel**.
 
 ---
 
-## Featured Projects
+## 🧠 About Me (no buzzwords)
+
+I’m a developer who enjoys:
+- turning messy data into usable insights  
+- designing backend systems that *don’t break at 3am*  
+- applying machine learning where it actually makes sense  
+
+I care about:
+- clarity over cleverness  
+- shipping over theorizing  
+- systems that age well  
+
+---
+
+## 🧪 Things I’ve Built
 
 <details>
-<summary><strong>📈 Stock Market Analysis Platform</strong></summary>
+<summary><strong>📈 Stock Market Analysis Platform</strong> — Django + Data</summary>
 
-- Django-based stock analysis system  
-- Live stock price search with backend API integration  
-- Data visualization for market trends  
+A backend-heavy stock analysis system focused on:
+- real-time data ingestion  
+- clean API design  
+- meaningful visualizations  
 
-**Tech Stack:** Django, Python, REST APIs, Matplotlib
+**Tech:** Django, Python, REST APIs, Matplotlib  
 </details>
 
 <details>
-<summary><strong>🥗 Calorie Calculator Website</strong></summary>
+<summary><strong>🥗 Calorie Calculator</strong> — Minimal, fast, usable</summary>
 
-- Minimal and responsive calorie calculator  
-- Clean UI with usability-first design  
+A front-end focused project built with one rule:
+> If it’s confusing, it’s wrong.
 
-**Tech Stack:** HTML, CSS, JavaScript
+**Tech:** HTML, CSS, JavaScript  
 </details>
 
 <details>
-<summary><strong>🚕 Dynamic Cab Fare Pricing (Machine Learning)</strong></summary>
+<summary><strong>🚕 Dynamic Cab Fare Pricing</strong> — Machine Learning</summary>
 
-- Machine learning model for dynamic fare calculation  
-- Pricing based on distance and data-driven patterns  
-- Real-world ML implementation  
+A real-world ML use case:
+- regression-based pricing  
+- distance-driven modeling  
+- practical feature engineering  
 
-**Tech Stack:** Python, Jupyter Notebook, Machine Learning
+**Tech:** Python, Jupyter Notebook, ML  
 </details>
 
 <details>
-<summary><strong>🎸 Tunr — Guitar Tuning App</strong></summary>
+<summary><strong>🎸 Tunr</strong> — iOS + Apple Watch</summary>
 
-- iOS guitar tuning application  
-- Apple Watch compatible  
-- Ad-free utility designed for real guitarist workflows  
+A guitar tuning app built for:
+- speed  
+- zero ads  
+- musicians who own an Apple Watch  
 
-**Tech Stack:** Swift, Xcode, iOS, watchOS
+**Tech:** Swift, Xcode, iOS, watchOS  
 </details>
 
 ---
 
-## Technical Skills
+## 🧰 Toolbox (what I actually use)
 
-| Category | Skills |
-|--------|-------|
+| Area | Tools |
+|----|----|
 | Languages | Python, JavaScript, HTML, CSS |
-| Frameworks & Tools | Django, Jupyter Notebook |
-| Machine Learning | Regression models, feature engineering |
-| Other | Git, GitHub, REST APIs, Data Visualization, Xcode, Swift |
+| Backend | Django, REST APIs |
+| Machine Learning | Regression, feature engineering |
+| Data | Analysis, visualization |
+| Other | Git, GitHub, Xcode, Swift |
 
 ---
 
-## GitHub Highlights
+## 🧭 How I Think About Projects
 
-- Structured repositories with production-oriented layouts  
-- Clean commit history and documentation-first approach  
-- Use of issue templates, contribution guidelines, and repo hygiene  
-- Familiarity with GitHub Pages, workflows, and project organization  
-
----
-
-## Contact
-
-- GitHub: https://github.com/cmd-d4ksh  
-- LinkedIn: https://www.linkedin.com/in/daksh-sh4h/
-
----
-
-<sub>
-This portfolio is actively maintained and reflects ongoing work in backend engineering and applied machine learning.
-</sub>
