@@ -24,21 +24,7 @@
 
 ---
 
-## ⚡ TL;DR
-
-I build **real systems**, not toy projects.
-
-If it has:
-- data → I analyze it  
-- logic → I optimize it  
-- users → I think about them  
-- ML → I make it practical  
-
-This repo is my **digital control panel**.
-
----
-
-## 🧠 About Me (no buzzwords)
+## About Me 
 
 I’m a developer who enjoys:
 - turning messy data into usable insights  
@@ -52,7 +38,7 @@ I care about:
 
 ---
 
-## 🧪 Things I’ve Built
+##  Things I’ve Built
 
 <details>
 <summary><strong>📈 Stock Market Analysis Platform</strong> — Django + Data</summary>
@@ -98,7 +84,7 @@ A guitar tuning app built for:
 
 ---
 
-## 🧰 Toolbox (what I actually use)
+##  Toolbox (what I actually use)
 
 | Area | Tools |
 |----|----|
@@ -110,11 +96,11 @@ A guitar tuning app built for:
 
 ---
 
-## 🧭 How I Think About Projects
+##  How I Think About Projects
 
 ---
 
-## 🧩 GitHub Habits (quiet flex)
+##  GitHub Habits (quiet flex)
 
 - Clean repo structure  
 - Docs that explain *why*, not just *what*  
@@ -123,7 +109,7 @@ A guitar tuning app built for:
 
 ---
 
-## 📬 Reach Me
+## Reach Me
 
 - GitHub → https://github.com/cmd-d4ksh  
 - LinkedIn → https://www.linkedin.com/in/daksh-sh4h/  
