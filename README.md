@@ -112,3 +112,27 @@ A guitar tuning app built for:
 
 ## 🧭 How I Think About Projects
 
+---
+
+## 🧩 GitHub Habits (quiet flex)
+
+- Clean repo structure  
+- Docs that explain *why*, not just *what*  
+- Issue templates & repo hygiene  
+- Commit history that tells a story  
+
+---
+
+## 📬 Reach Me
+
+- GitHub → https://github.com/cmd-d4ksh  
+- LinkedIn → https://www.linkedin.com/in/daksh-sh4h/  
+
+---
+
+<sub>
+If you’re a recruiter: start with the pinned repos.  
+If you’re a developer: read the code.  
+If you’re both: welcome.
+</sub>
+
