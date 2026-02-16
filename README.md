@@ -8,12 +8,16 @@
 <h3 align="center">Backend · Machine Learning · Builder</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cmd-d4ksh&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/cmd-d4ksh?style=flat-square" />
-  <img src="https://img.shields.io/badge/Python-Backend-blue?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/Django-Production-success?style=flat-square&logo=django" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Applied-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Deployed-GitHub%20Pages-black?style=flat-square&logo=github" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Engineer;Machine+Learning+Builder;System+Thinker;Shipping+>+Talking&center=true&width=500&height=50" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cmd-d4ksh&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/cmd-d4ksh?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-Backend-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Django-Production-success?style=for-the-badge&logo=django" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Applied-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deployed-GitHub%20Pages-black?style=for-the-badge&logo=github" />
 </p>
 
 <p align="center">
@@ -38,12 +42,14 @@ I care about:
 
 ---
 
-##  Things I’ve Built
+## Things I’ve Built
 
 <details>
 <summary><strong>📈 Stock Market Analysis Platform</strong> — Django + Data</summary>
 
-A backend-heavy stock analysis system focused on:
+A data-driven backend system for evaluating market signals in real time.
+
+Focused on:
 - real-time data ingestion  
 - clean API design  
 - meaningful visualizations  
@@ -54,7 +60,7 @@ A backend-heavy stock analysis system focused on:
 <details>
 <summary><strong>🥗 Calorie Calculator</strong> — Minimal, fast, usable</summary>
 
-A front-end focused project built with one rule:
+Built with one rule:
 > If it’s confusing, it’s wrong.
 
 **Tech:** HTML, CSS, JavaScript  
@@ -63,12 +69,12 @@ A front-end focused project built with one rule:
 <details>
 <summary><strong>🚕 Dynamic Cab Fare Pricing</strong> — Machine Learning</summary>
 
-A real-world ML use case:
+A practical ML use case:
 - regression-based pricing  
 - distance-driven modeling  
-- practical feature engineering  
+- applied feature engineering  
 
-**Tech:** Python, Jupyter Notebook, ML  
+**Tech:** Python, Jupyter Notebook  
 </details>
 
 <details>
@@ -84,23 +90,28 @@ A guitar tuning app built for:
 
 ---
 
-##  Toolbox (what I actually use)
+## Toolbox
 
-| Area | Tools |
-|----|----|
-| Languages | Python, JavaScript, HTML, CSS |
-| Backend | Django, REST APIs |
-| Machine Learning | Regression, feature engineering |
-| Data | Analysis, visualization |
-| Other | Git, GitHub, Xcode, Swift |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,js,html,css,swift,git,github" />
+</p>
 
 ---
 
-##  How I Think About Projects
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cmd-d4ksh&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmd-d4ksh&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=cmd-d4ksh&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-##  GitHub Habits (quiet flex)
+## GitHub Habits (quiet flex)
 
 - Clean repo structure  
 - Docs that explain *why*, not just *what*  
@@ -121,4 +132,3 @@ If you’re a recruiter: start with the pinned repos.
 If you’re a developer: read the code.  
 If you’re both: welcome.
 </sub>
-
