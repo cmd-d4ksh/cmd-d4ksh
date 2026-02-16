@@ -111,7 +111,7 @@ A guitar tuning app built for:
 
 ---
 
-## GitHub Habits (quiet flex)
+## GitHub Habits 
 
 - Clean repo structure  
 - Docs that explain *why*, not just *what*  
